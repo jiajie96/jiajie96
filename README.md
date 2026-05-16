@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jiajie96/DrivAerSDFNet">DrivAerSDFNet</a></h3>
+      <h3><a href="https://github.com/jiajie96/DrivAerSDFNet">DrivAerSDFNet</a> <sup>(private)</sup></h3>
       <p>3D CNN surrogate for automotive aero coefficients. R²&nbsp;=&nbsp;0.972 on drag with only <strong>3.24M</strong> params.</p>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/SDF-grey?style=flat-square"/>
