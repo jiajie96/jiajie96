@@ -79,18 +79,6 @@
 
 ---
 
-### GitHub Activity
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jiajie96&theme=tokyonight&hide_border=true" alt="GitHub Streak"/></a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiajie96&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://github.com/jiajie96/jiajie96/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
