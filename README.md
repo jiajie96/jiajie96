@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jiajie96/jiajiefan.github.io/main/assets/images/cover_front.jpeg" width="100%" alt="Banner"/>
+</p>
+
 <h1 align="center">Hi, I'm Jiajie Fan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
-  <em>Founding Engineer @ <strong>Kyrall</strong> &bull; PhD in AI for 3D CAD &bull; Munich, Germany</em>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Founding+Engineer+%40+Kyrall;PhD+in+AI+for+3D+CAD+%7C+Leiden+University;Deep+Generative+Models+for+Engineering+Design;Spectral+Diffusion+%E2%80%A2+NURBS+Learning+%E2%80%A2+Shape+Generation" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -24,7 +28,47 @@
 
 ---
 
-### Publications
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jiajie96/neuronurbs">NeuroNURBS</a></h3>
+      <img src="https://raw.githubusercontent.com/jiajie96/jiajiefan.github.io/main/assets/images/nurbs.png" width="100%" alt="NeuroNURBS"/>
+      <p>Direct NURBS parameter encoding for 3D solid generation. <strong>86.7%</strong> less GPU, <strong>79.9%</strong> less memory vs UV-grid.</p>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCASCADE-005F9E?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jiajie96/SpoDify_pytorch">SpoDify</a></h3>
+      <img src="https://raw.githubusercontent.com/jiajie96/jiajiefan.github.io/main/assets/images/spodify.png" width="100%" alt="SpoDify"/>
+      <p>Spectral-domain diffusion for 3D shape generation. Compress shapes to 512-D latents via wavelets + SVD.</p>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/IEEE%20CAI%202026-00629B?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jiajie96/DrivAerSDFNet">DrivAerSDFNet</a> <sup>(private)</sup></h3>
+      <img src="https://raw.githubusercontent.com/jiajie96/DrivAerSDFNet/main/diagram.png" width="100%" alt="DrivAerSDFNet"/>
+      <p>3D CNN surrogate for automotive aero coefficients. R²&nbsp;=&nbsp;0.972 on drag with only <strong>3.24M</strong> params.</p>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SDF-grey?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jiajie96/PoDM-python">PoDM</a></h3>
+      <img src="https://raw.githubusercontent.com/jiajie96/jiajiefan.github.io/main/assets/images/podm.png" width="100%" alt="PoDM"/>
+      <p>Noise scheduling for plausible design synthesis. EDM-style diffusion + DragFDM interactive editing.</p>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Diffusion-blueviolet?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<details>
+<summary><h3>Publications (6 papers)</h3></summary>
 
 | Paper | Venue | Year | Links |
 |-------|-------|------|-------|
@@ -35,40 +79,19 @@
 | **NeuroNURBS**: Learning Efficient Surface Representations for 3D Solids | Under Review | 2024 | [![arXiv](https://img.shields.io/badge/arXiv-2411.10848-b31b1b.svg)](https://arxiv.org/abs/2411.10848) [![Code](https://img.shields.io/badge/Code-GitHub-181717.svg)](https://github.com/jiajie96/neuronurbs) |
 | **PoDM**: On the Noise Scheduling for Generating Plausible Designs with Diffusion Models | arXiv | 2023 | [![arXiv](https://img.shields.io/badge/arXiv-2311.11207-b31b1b.svg)](https://arxiv.org/abs/2311.11207) [![Code](https://img.shields.io/badge/Code-GitHub-181717.svg)](https://github.com/jiajie96/PoDM-python) |
 
+</details>
+
 ---
 
-### Featured Projects
+### GitHub Activity
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/jiajie96/neuronurbs">NeuroNURBS</a></h3>
-      <p>Direct NURBS parameter encoding for 3D solid generation. <strong>86.7%</strong> less GPU, <strong>79.9%</strong> less memory vs UV-grid.</p>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenCASCADE-005F9E?style=flat-square"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/jiajie96/SpoDify_pytorch">SpoDify</a></h3>
-      <p>Spectral-domain diffusion for 3D shape generation. Compress shapes to 512-D latents via wavelets + SVD.</p>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/IEEE%20CAI%202026-00629B?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/jiajie96/DrivAerSDFNet">DrivAerSDFNet</a> <sup>(private)</sup></h3>
-      <p>3D CNN surrogate for automotive aero coefficients. R²&nbsp;=&nbsp;0.972 on drag with only <strong>3.24M</strong> params.</p>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SDF-grey?style=flat-square"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/jiajie96/PoDM-python">PoDM</a></h3>
-      <p>Noise scheduling for plausible design synthesis. EDM-style diffusion + DragFDM interactive editing.</p>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Diffusion-blueviolet?style=flat-square"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jiajie96&theme=tokyonight&hide_border=true" alt="GitHub Streak"/></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiajie96&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+</p>
 
 ---
 
