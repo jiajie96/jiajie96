@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jiajie96/jiajiefan.github.io/main/assets/images/cover_front.jpeg" width="100%" alt="Banner"/>
-</p>
-
-<h1 align="center">Hi, I'm Jiajie Fan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hey, I'm Jiajie Fan — I teach machines to dream in 3D <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Founding+Engineer+%40+Kyrall;PhD+in+AI+for+3D+CAD+%7C+Leiden+University;Deep+Generative+Models+for+Engineering+Design;Spectral+Diffusion+%E2%80%A2+NURBS+Learning+%E2%80%A2+Shape+Generation" alt="Typing SVG" /></a>
@@ -50,7 +46,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jiajie96/DrivAerSDFNet">DrivAerSDFNet</a> <sup>(private)</sup></h3>
-      <img src="https://raw.githubusercontent.com/jiajie96/DrivAerSDFNet/main/diagram.png" width="100%" alt="DrivAerSDFNet"/>
+      <img src="https://raw.githubusercontent.com/jiajie96/jiajie96/main/drivaersdfnet_diagram.png" width="100%" alt="DrivAerSDFNet"/>
       <p>3D CNN surrogate for automotive aero coefficients. R²&nbsp;=&nbsp;0.972 on drag with only <strong>3.24M</strong> params.</p>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/SDF-grey?style=flat-square"/>
